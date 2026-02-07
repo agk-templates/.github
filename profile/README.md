@@ -38,6 +38,7 @@ Explore the collection of official templates designed to jumpstart your agentic 
 | Template | Description | Quick Start |
 | :--- | :--- | :--- |
 | **[test-agent](https://github.com/agk-templates/test-agent)** | A basic agent implementation to verify your setup and connectivity. | `agk init my-agent -t agk/test-agent` |
+| **[translate-workflow](https://github.com/agk-templates/translate-workflow)** | Config-driven translation workflow (detect → translate → QA). | `agk init my-translate -t agk/translate-workflow` |
 
 > *More templates coming soon!*
 
