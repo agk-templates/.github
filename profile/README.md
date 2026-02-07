@@ -39,6 +39,7 @@ Explore the collection of official templates designed to jumpstart your agentic 
 | :--- | :--- | :--- |
 | **[test-agent](https://github.com/agk-templates/test-agent)** | A basic agent implementation to verify your setup and connectivity. | `agk init my-agent -t agk/test-agent` |
 | **[translate-workflow](https://github.com/agk-templates/translate-workflow)** | Config-driven translation workflow (detect → translate → QA). | `agk init my-translate -t agk/translate-workflow` |
+| **[flight-search-assistant](https://github.com/agk-templates/flight-search-assistant)** | Config-driven flight search assistant with tool calling. | `agk init my-flight -t agk/flight-search-assistant` |
 
 > *More templates coming soon!*
 
